@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Akash1842/akash1842/blob/main/emile-perron-xrVDYZRGdw4-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Akash Patel</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
